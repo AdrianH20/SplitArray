@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586462347 source:c:\users\adrian\desktop\arraysplit\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
